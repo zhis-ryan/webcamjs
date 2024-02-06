@@ -16,3 +16,4 @@ Having trouble?  See if your webcam is actually working in your browser:
 - Try this Flash Webcam test page: https://www.onlinemictest.com/webcam-test-in-adobe-flash
 - Try jQuery Webcam: http://www.xarg.org/project/jquery-webcam-plugin/
 - Try JpegCamera: https://github.com/amw/jpeg_camera
+- test
